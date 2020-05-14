@@ -3,10 +3,13 @@
 Answer these on your own, then compare answers as a group
 
 1.  What is state?
+      State is data stored for the component
 
 2.  Where do you set initial state?
+      You set state in the constructor function of the component
 
 3.  What method do you use to update state?
+      this.setState
 
 ### Understand
 
